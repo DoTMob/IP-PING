@@ -1,4 +1,4 @@
-# VPNbyPASS
+#IP PING
 Batch code IP Ping 
 copy/clone files and run 
 .bat files are executionable
